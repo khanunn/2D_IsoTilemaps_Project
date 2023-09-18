@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Scene_Biome_Empty.unity
+  isLoaded: 1
+  isActive: 1
